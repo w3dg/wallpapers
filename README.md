@@ -1,4 +1,4 @@
- # Wallpapers
+# Wallpapers
 
 
 Originally from DT's ( [Distrotube](https://www.youtube.com/c/DistroTube) )wallpaper collection over on [Gitlab](https://gitlab.com/dwt1/wallpapers) I have added some more wallpapers on top of them. 
